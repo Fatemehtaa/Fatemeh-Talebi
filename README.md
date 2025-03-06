@@ -1,8 +1,8 @@
-# 👋 Hi, I'm Fatemeh Talebi  
+# Hi, I'm Fatemeh Talebi  
 🚀 **Tech Talent Acquisition Specialist** | Connecting top developers with Job opportunities!  
 💡 Passionate about tech hiring, sourcing.  
 
-### 📢 What I Do:  
+### What I Do:  
 ✅ Hiring for **React, Vue.js, .Net, DevOps & more**  
 ✅ Connecting tech talents with top companies  
 ✅ Sharing insights on tech hiring  
