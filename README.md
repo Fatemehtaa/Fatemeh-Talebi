@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Fatemeh Talebi  
-🚀 **Tech Talent Acquisition Specialist** | Helping top developers find jobs!  
+🚀 **Tech Talent Acquisition Specialist** | Connecting top developers with Job opportunities!  
 💡 Passionate about tech hiring, sourcing.  
 
 ### 📢 What I Do:  
